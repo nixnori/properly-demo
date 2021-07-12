@@ -4,6 +4,7 @@ export const HeroContainer = styled.div`
 	display: flex;
 	width: 100%;
 	padding: 5rem 10vw 2rem;
+	height: 100vh;
 	min-height: 688px;
 
 	@media ${(props) => props.theme.mediaQueries.tablet} {
