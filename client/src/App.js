@@ -1,7 +1,7 @@
 import React from "react";
 import { Switch, Route } from "react-router-dom";
 import Header from "./components/Header";
-import Hero from "./components/Hero";
+import Home from "./pages/Home/Home";
 
 export default function App() {
 	return (
@@ -9,7 +9,7 @@ export default function App() {
 			<Header />
 			<Switch>
 				<Route>
-					<Hero />
+					<Home />
 				</Route>
 			</Switch>
 		</div>

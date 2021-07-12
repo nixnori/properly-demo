@@ -15,6 +15,7 @@ import Button from "../Button";
 
 export default function Hero() {
 	const [buy, setBuy] = useState(true);
+
 	return (
 		<HeroContainer>
 			<HeroMsg>

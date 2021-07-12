@@ -9,12 +9,12 @@ export default function Header() {
 			<Logo />
 			<LinksContainer>
 				<LinksWrapper>
-					<NavLink>Home</NavLink>
-					<NavLink>About</NavLink>
-					<NavLink>Contact</NavLink>
+					<NavLink to="/">Home</NavLink>
+					<NavLink to="/">About</NavLink>
+					<NavLink to="/">Contact</NavLink>
 				</LinksWrapper>
 				<div>
-					<NavLink>Login</NavLink>
+					<NavLink to="/">Login</NavLink>
 					<Button text="Sign Up" />
 				</div>
 			</LinksContainer>

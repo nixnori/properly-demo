@@ -2,12 +2,13 @@ import styled from "styled-components";
 
 export const HeroContainer = styled.div`
 	display: flex;
-	padding: 5rem 10vw;
+	width: 100%;
+	padding: 5rem 10vw 2rem;
 	min-height: 688px;
 
 	@media ${(props) => props.theme.mediaQueries.tablet} {
-		padding: 5rem 0;
 		flex-direction: column-reverse;
+		padding: 0;
 	}
 `;
 
