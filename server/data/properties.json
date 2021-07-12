@@ -3,56 +3,56 @@
 		{
 			"title": "Unionville Mid Rise Condo",
 			"location": "Unionville, Ontario",
-			"price": 400950,
+			"price": "400,950",
 			"squareFeet": 2400,
 			"bed": 2,
 			"bath": 2,
-			"image": "https://imgur.com/R8vDFfa"
+			"image": "https://i.imgur.com/R8vDFfa.png"
 		},
 		{
 			"title": "Beautiful Victorian Home",
 			"location": "Toronto, Ontario",
-			"price": 1600980,
+			"price": "1,600,980",
 			"squareFeet": 2400,
 			"bed": 2,
 			"bath": 2,
-			"image": "https://imgur.com/2pOsCLT"
+			"image": "https://i.imgur.com/2pOsCLT.png"
 		},
 		{
 			"title": "Hamilton Townhouse",
 			"location": "Hamilton, Ontario",
-			"price": 1400570,
+			"price": "1,400,570",
 			"squareFeet": 2400,
 			"bed": 2,
 			"bath": 2,
-			"image": "https://imgur.com/1051EIn"
+			"image": "https://i.imgur.com/1051EIn.png"
 		},
 		{
 			"title": "Modern House in Niagara",
 			"location": "Niagara, Ontario",
-			"price": 2400950,
+			"price": "2,400,950",
 			"squareFeet": 2400,
 			"bed": 2,
 			"bath": 2,
-			"image": "https://imgur.com/DDiB6M4"
+			"image": "https://i.imgur.com/DDiB6M4.png"
 		},
 		{
 			"title": "Low Rise Condo",
 			"location": "Richmond Hill, Ontario",
-			"price": 700950,
+			"price": "700,950",
 			"squareFeet": 2400,
 			"bed": 2,
 			"bath": 2,
-			"image": "https://imgur.com/6k14qBE"
+			"image": "https://i.imgur.com/6k14qBE.png"
 		},
 		{
 			"title": "Semi Detached Home",
 			"location": "Toronto, Ontario",
-			"price": 2000090,
+			"price": "2,000,090",
 			"squareFeet": 2400,
 			"bed": 2,
 			"bath": 2,
-			"image": "https://imgur.com/JJ5yy6O"
+			"image": "https://i.imgur.com/JJ5yy6O.png"
 		}
 	]
 }
