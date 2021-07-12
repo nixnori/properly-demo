@@ -13,6 +13,7 @@ import heroPic from "../../assets/images/hero-pic.png";
 import search from "../../assets/images/search.svg";
 import Button from "../Button";
 
+
 export default function Hero() {
 	const [buy, setBuy] = useState(true);
 

@@ -25,7 +25,7 @@ export const NavLink = styled(Link)`
 
 	&:hover {
 		text-decoartion: none;
-		color: #f09814;
+		color: ${(props) => props.theme.colors.primary};
 	}
 `;
 
@@ -39,4 +39,12 @@ export const LinksWrapper = styled.div`
 	@media ${(props) => props.theme.mediaQueries.tablet} {
 		display: none;
 	}
+`;
+
+export const LoginBtn = styled(NavLink)`
+color: ${(props) => props.theme.colors.highlight};
+
+&:hover {
+	color: #f09814
+}
 `;

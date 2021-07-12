@@ -6,6 +6,8 @@ import houseIcon from "../../assets/images/house.svg";
 import bedIcon from "../../assets/images/bed.svg";
 import bathIcon from "../../assets/images/bath.svg";
 
+// next steps: clicking on property card opens a modal with extra details of featured property
+
 export default function PropertyCard(props) {
 	return (
 		<Card>
